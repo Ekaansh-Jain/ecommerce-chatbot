@@ -38,4 +38,3 @@ A smart, real-time NLP-based chatbot designed to handle common customer support 
 
 ---
 
-## 📁 Project Structure
